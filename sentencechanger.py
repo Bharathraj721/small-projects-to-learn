@@ -1,0 +1,5 @@
+sentence=input("Enter the sentence:")
+changeletter=input("enter the letter you want to change:")
+towhich=input("ti which letter:")
+final=print(sentence.replace(changeletter,towhich))
+print(final)
