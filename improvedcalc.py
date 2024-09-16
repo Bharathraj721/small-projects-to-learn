@@ -51,3 +51,6 @@ def main():
         print("Error:", str(e))
     except ZeroDivisionError as e:
         print("Error:", str(e))
+
+if __name__ == "__main__":
+    main()
